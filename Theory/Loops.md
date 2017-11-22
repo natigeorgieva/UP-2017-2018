@@ -151,8 +151,8 @@ int main()
 
 Пример: Отпечатване на числата от 1 до 9 в решетка
 
- #include <iostream>
-	
+#include <iostream>
+
 using namespace std;
 
 int main()

@@ -126,8 +126,11 @@ do-while конструкция(do-while statement)
 Пример: Отпечатване на числата от 0 до 9
 
 #include<iostream>
+	
 using namespace std;
+
 int main()
+
 {
 	int index = 0;
 	

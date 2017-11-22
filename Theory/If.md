@@ -4,6 +4,11 @@ if конструкции (if-statement)
 
 Кратка форма на if
 
+Блок-схема
+
+![title](https://github.com/natigeorgieva/UP-2017-2018/blob/master/Theory/diagrams/if.png)
+
+
 Синтаксис:
 
 if (<булев_израз>)
@@ -44,6 +49,11 @@ if (<булев_израз>)
 
 
 Пълна форма на if
+
+Блок-схема
+
+![title](https://github.com/natigeorgieva/UP-2017-2018/blob/master/Theory/diagrams/if-else.png)
+
 
 Синтаксис:
 

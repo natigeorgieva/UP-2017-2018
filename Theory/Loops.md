@@ -126,6 +126,10 @@ do-while конструкция(do-while statement)
 Пример: Отпечатване на числата от 0 до 9
 
 
+	#include <iostream>
+            
+	using namespace std;
+	
 	int main()
 	{
 	
@@ -151,6 +155,10 @@ do-while конструкция(do-while statement)
 
 
 
+	#include <iostream>
+        
+	using namespace std;
+	
 	int main()
 	{
 	int k = 1;

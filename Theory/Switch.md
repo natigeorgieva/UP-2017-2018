@@ -4,6 +4,10 @@
 
 Синтаксис:
 
+Блок-схема
+
+![title](https://github.com/natigeorgieva/UP-2017-2018/blob/master/Theory/diagrams/switch.png)
+
 switch(<израз|стойност>)
 
 {

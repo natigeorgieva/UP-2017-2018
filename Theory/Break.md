@@ -4,25 +4,40 @@
 
 Започваме да сравняваме последователно числата от редицата с нашето число-7. Както забелязваме, числото 7 се намира в средата на редицата. Е, намерихме го! Нужно ли е след като сме намерили 7 да продължаваме да търсим? - Не. Как се прекратява търсенето. В програмирането използваме оператора break. Вече го видяхме при оператора switch. Тук обаче, break се използва, когато искаме принудително да приключим цикъл.
 
-#include <iostream>
-using namespace std;
 
-int main()
-{
 
+	#include <iostream>
+	
+	using namespace std;
+
+	int main()
+	
+	{	
+	
 	int temp_number;
+	
 	int size_of_sequence;
 
 	cin >> size_of_sequence;
+	
 	for (int i = 0; i < size_of_sequence; i++)
 	{
+	
 		cin >> temp_number;
+		
 		if (temp_number == 7)
+		
 		{
+		
 			cout << "You're lucky! " << endl;
+			
 			break;
+		
 		}
+		
 	}
 
+	
 	return 0;
-}
+	
+	}

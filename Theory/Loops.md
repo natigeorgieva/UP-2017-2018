@@ -125,9 +125,10 @@ do-while конструкция(do-while statement)
 
 Пример: Отпечатване на числата от 0 до 9
 
-int main()
 
-{
+	int main()
+	{
+	
 	int index = 0;
 	
 	do

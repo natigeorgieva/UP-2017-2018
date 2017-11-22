@@ -55,6 +55,11 @@
 
 for конструкция(for statement)
 
+Блок-схема
+
+![title](https://github.com/natigeorgieva/UP-2017-2018/blob/master/Theory/diagrams/for.png)
+
+
 Синтаксис:
 
     for ( <инициализация>; <условие-за-край>; <актуализация> )
@@ -78,6 +83,11 @@ for конструкция(for statement)
     }
 
 While конструкция(while statement)
+
+Блок-схема
+
+![title](https://github.com/natigeorgieva/UP-2017-2018/blob/master/Theory/diagrams/while.png)
+
 
 Синтаксис:
 
@@ -110,6 +120,10 @@ While конструкция(while statement)
 При този вид цикли замисълът е следният: да се изпълни първо тялото на конструкцията и след това да се проверя условието за край. Разликата между двете философии (предусловие и следусловие) е, че при втората винаги ще се изпълни тялото поне веднъж, а при първата е възможно да не се извърши дори един път.
 
 do-while конструкция(do-while statement)
+
+Блок-схема
+
+![title](https://github.com/natigeorgieva/UP-2017-2018/blob/master/Theory/diagrams/do-while.png)
 
 Синтаксис:
 

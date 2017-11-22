@@ -152,30 +152,20 @@ int main()
 Пример: Отпечатване на числата от 1 до 9 в решетка
 
 #include <iostream>
-
 using namespace std;
 
-int main()
 
+int main()
 {
 	int k = 1;
-	
 	for (int i = 0; i < 3; i++) // външен
-	
 	{
-	
 		for (int j = 0; j < 3; j++) // вътрешен
-	
 		{
-		
 			cout << k ;
-			
 			k++;
-		
 		}
-		
 		cout << endl;
-	
 	}
 
 	return 0;

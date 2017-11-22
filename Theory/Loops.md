@@ -147,18 +147,31 @@ int main()
 
 Пример: Отпечатване на числата от 1 до 9 в решетка
 
-int main()
-{
-	int k = 1;
-	for (int i = 0; i < 3; i++) // външен
+
+
+
+	int main()
 	{
+	int k = 1;
+
+	for (int i = 0; i < 3; i++) // външен
+
+	{
+	
 		for (int j = 0; j < 3; j++) // вътрешен
+		
 		{
+		
 			cout << k ;
+			
 			k++;
+		
 		}
+		
 		cout << endl;
+	
 	}
 
 	return 0;
-}
+
+	}

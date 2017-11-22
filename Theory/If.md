@@ -38,9 +38,6 @@ int main()
 
 }
 
-Блок-схема:
-
-alt tag
 
 Пълна форма на if
 
@@ -94,9 +91,7 @@ int main()
 
 }
 
-Блок-схема:
 
-alt tag
 
 Вложена форма(Nested form)
 
